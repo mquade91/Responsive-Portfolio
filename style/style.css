@@ -50,6 +50,10 @@ h3 {
   font-size: 22px;
 }
 
+
+.pages:hover {
+  background-color: #023af2;
+}
 /* header */
 
 #masthead {
