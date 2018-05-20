@@ -85,6 +85,7 @@ h3 {
 nav {
   float: right;
   margin-top: 25px;
+  padding:5px;
 }
 
 nav a {
