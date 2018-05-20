@@ -85,12 +85,14 @@ h3 {
 nav {
   float: right;
   margin-top: 25px;
-  padding:5px;
+
 }
 
 nav a {
   display: inline-block;
   padding-left: 15px;
+  align-content: center;
+  float:none;
   margin-left: 15px;
   line-height: 18px;
   color: #999;
