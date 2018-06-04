@@ -1,9 +1,9 @@
 # Matthew Quade's Professional Portfolio
  https://mquade91.github.io/Responsive-Portfolio/
 
- ## Apps featured in Portfolio
+# Apps featured in Portfolio
 
-### -Smart Scout:
+## Smart Scout:
 ___
 #### Working Application
 https://obscure-lake-15732.herokuapp.com/
@@ -17,7 +17,7 @@ This web application is a basic CRM tool that can be utilizied across many indus
 
 **HTML5, CSS3, Bootsrap, Materialize** and **EJS (templating)** for the UI.  **NodeJS** and **Express Routing** is used to handle POST and GET requests from the database **(MongoDB)**.  User Authetication is done with the **NPM package Passport** and the User credentials are encrypted with **B-Crypt NodeJS**.
 
-### -Music Hub:
+## Music Hub:
 ___
 #### Working Application
 https://mquade91.github.io/SpotifyWebApp
@@ -28,7 +28,7 @@ https://mquade91.github.io/SpotifyWebApp
 
 The UI was built with **HTML** and styled with **CSS3 and Materialize**. Recent searches were saved into **Firebase Database**. **jQuery** was used for DOM animation. **Ticketmaster, Spotify, and YouTube API’s** were used to generate page content. I was responsible for UI design as well as setting up the **Ticketmaster API** and using **jQuery** to handle the returned **JSON** to the UI.
 
-### -Burger App:
+## -Burger App:
 ___
 #### Working Application
 https://salty-meadow-67087.herokuapp.com/
