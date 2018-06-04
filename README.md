@@ -22,7 +22,7 @@ ___
 #### Working Application
 https://mquade91.github.io/SpotifyWebApp
 
-**Music** Hub is a search engine for any artist/band that allows the user to see a bands Top Tracks, Latest Event Schedule, Top YouTube Video, and Related Artists.
+**Music Hub** is a search engine for any artist/band that allows the user to see a bands Top Tracks, Latest Event Schedule, Top YouTube Video, and Related Artists.
 
 ##### Technologies Used:
 
